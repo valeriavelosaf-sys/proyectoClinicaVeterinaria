@@ -1,4 +1,4 @@
-# 🐾 Sistema Clínica Veterinaria Vida Animal
+Sistema Clínica Veterinaria Vida Animal
 
 
 Este proyecto permite gestionar la información de las mascotas atendidas en la clínica veterinaria **Vida Animal**, así como los datos de sus dueños y el cálculo del costo de consulta.
